@@ -6,7 +6,7 @@ I'm a 👩🏻‍💻full-stack developer, 🎨web designer, and 💻computer sc
 - Bus app & room reservation application
 - First game on Godot
 ## 🌱 Currently Learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=react,godot&theme=light) <img src="https://static.wikia.nocookie.net/logopedia/images/3/30/Aseprite_Logo.png/revision/latest?cb=20240909223208" alt="drawing" height="50"/>
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=react,postgres,godot&theme=light) <img src="https://static.wikia.nocookie.net/logopedia/images/3/30/Aseprite_Logo.png/revision/latest?cb=20240909223208" alt="drawing" height="50"/>
 ## ✨ Skills & Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,nodejs,sqlserver,oracle,django,flask,html,css,js,pygame,git,github,docker,cloudflare,figma,linux&perline=10)
 ## 🗺️ Learning Roadmap
